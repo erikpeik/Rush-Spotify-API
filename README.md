@@ -1,6 +1,7 @@
 # Rush-Spotify-API
 Rushes Music Collection/Hive Helsinki      <img src="https://user-images.githubusercontent.com/81321172/165960699-d5ff0b5a-9b9b-4341-9b83-590dc5af6d35.png" width="10%"/>
 
+Made by [erikpeik](https://github.com/erikpeik) and [omaralsakka](https://github.com/omaralsakka)
 
 
 ## :diamond_shape_with_a_dot_inside: **Project's goal:**
