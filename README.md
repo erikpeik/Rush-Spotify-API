@@ -9,6 +9,10 @@ Made by [erikpeik](https://github.com/erikpeik) and [omaralsakka](https://github
 This project is about using the API of a popular music streaming service
 to print out a catalog of a user's saved albums. In our case we used Spotify.
 
+## :play_or_pause_button: **App Preview:**
+
+https://user-images.githubusercontent.com/52178013/167254428-e9031e42-da7e-40ec-a3bb-3b94b05180f7.mp4
+
 ## :arrow_forward: **Usage**
 
 :arrow_right: create an application inside Spotify developer page
